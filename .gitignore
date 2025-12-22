@@ -15,3 +15,4 @@ spark_env/__pycache__/
 
 # Ignore Jupyter checkpoints
 .ipynb_checkpoints/
+*.duckdb 
