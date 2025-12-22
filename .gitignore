@@ -1,0 +1,17 @@
+# Ignore data folder
+data/
+
+# Ignore Power BI file (optional but recommended)
+*.pbix
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore environment files
+.env
+.venv/
+spark_env/__pycache__/
+
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
