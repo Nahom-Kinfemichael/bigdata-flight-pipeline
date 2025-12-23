@@ -157,13 +157,18 @@ Route analysis
 Time-based trends
 
 10. Team Members & Contributions
-Name	Contribution
-Nahom	PySpark ETL pipeline development, DuckDB integration
-[Member 2]	Data cleaning, transformation logic
-[Member 3]	Prefect orchestration & workflow design
-[Member 4]	Power BI dashboard & visualization
 
-(Update names as needed)
+group 1 	PySpark ETL pipeline development, DuckDB integration
+
+Name	        Contribution
+
+Yared           Data finder
+Birhanu, wudneh	Data cleaning, transformation logic
+Hailemaryam     load transformed data into database
+Haile, Nahom	Prefect orchestration & workflow design
+Rita, yordanos	Power BI dashboard & visualization
+
+
 
 11. Bonus Components
 
