@@ -51,9 +51,7 @@ data/
 
 spark_env/                      # Spark environment / virtual environment
 
-pipeline.ipynb                  # Main ETL pipeline (PySpark)
 pipeline_with_prefect.ipynb     # Pipeline with Prefect orchestration (Bonus)
-
 flights_analysis.duckdb         # DuckDB analytical database
 combin_file_for_power_BI.py     # Script to prepare data for Power BI
 big_data.pbix                   # Power BI dashboard file
